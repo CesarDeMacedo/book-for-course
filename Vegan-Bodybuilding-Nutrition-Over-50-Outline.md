@@ -65,12 +65,15 @@ The reader can estimate maintenance calories, choose the right calorie direction
 - How to estimate a starting calorie range.
 - How to adjust calories every 2-4 weeks using trend data.
 - Nutrient density: why fewer calories cannot mean fewer nutrients.
+- Calorie targets as part of recovery, inflammation management, and hormone-supportive training.
+- Gluten-free calorie quality: use nutrient-dense staples instead of assuming gluten-free packaged foods are automatically better.
 
 ### Practical Guidance
 - Muscle gain: use a small surplus, not a bulk-at-any-cost approach.
 - Fat loss: use a modest deficit while protecting protein and lifting performance.
 - Recomposition: maintain calories or use a very small deficit while progressing in training.
 - Use waist, body weight trend, gym performance, sleep, mood, and hunger together rather than scale weight alone.
+- Add one anti-inflammatory food habit while adjusting calories: berries, greens, flax, chia, ginger, turmeric, or omega-3 strategy.
 
 ### Male Track
 - Address common pattern: higher starting body weight, central fat gain, alcohol calories, and overestimating protein.
@@ -154,12 +157,14 @@ The reader learns how to increase vegan protein and fiber without bloating, disc
 - Lower-volume high-protein options.
 - Meal frequency and appetite after 50.
 - Hydration, sodium, digestion, and label checks for gluten in sauces, oats, TVP, meat substitutes, and protein bars.
+- Anti-inflammatory food pacing so flax, chia, ginger, turmeric, legumes, and greens are added in tolerable amounts.
 
 ### Practical Guidance
 - Increase fiber gradually over several weeks.
 - Use cooked vegetables, soups, tofu, tempeh, protein powders, soy milk, and refined grains strategically when appetite or digestion is limiting.
 - Do not force very high-fiber meals immediately before training.
 - Use fermented soy foods if tolerated.
+- For gluten-free readers, favor simple pre-workout foods such as rice, potatoes, banana, certified gluten-free oats, soy milk, tofu, tempeh, or pea-protein smoothies.
 
 ### Tools
 - Fiber ramp-up checklist.
@@ -266,11 +271,13 @@ The reader can choose pre-workout and post-workout meals that support energy, co
 - Post-workout meals and the myth of the tiny anabolic window.
 - Hydration, sodium, and caffeine.
 - Rest-day eating.
+- Timing, myokines, and training quality: fueling well helps preserve the strength-training signal.
 
 ### Practical Guidance
 - Pre-workout: choose easy-digesting carbs plus moderate protein, especially within 1-3 hours of lifting.
 - Post-workout: include a protein anchor and carbs when the next meal is not soon.
 - Avoid very large, high-fiber, high-fat meals right before hard training.
+- Add gluten-free training carbs such as rice, potatoes, banana, certified gluten-free oats, quinoa, amaranth, buckwheat, corn tortillas, or gluten-free pasta when needed.
 - For older adults, consistency and tolerance beat perfect timing.
 
 ### Male Track
@@ -297,6 +304,7 @@ The reader understands which supplements deserve attention, which are optional, 
 - Vitamin D and calcium.
 - Creatine for strength, power, and older lifters.
 - Algae-based EPA/DHA.
+- Turmeric, ginger, and joint formulas as optional anti-inflammatory extras with medication and bleeding-risk caveats.
 - Protein powder as a convenience tool.
 - Iodine, iron, zinc, selenium, magnesium, and multivitamins.
 - Supplement safety: medications, kidney disease, lab testing, quality control.
@@ -307,6 +315,7 @@ The reader understands which supplements deserve attention, which are optional, 
 - Convenience option: soy or pea protein powder.
 - Conditional nutrients: iron, zinc, magnesium, iodine, selenium depending on diet and labs.
 - Avoid proprietary "hormone booster" claims.
+- Require gluten-free label checks for protein powders, bars, greens powders, creatine blends, and meal replacements when medically necessary.
 
 ### Tools
 - Supplement tier checklist.
@@ -350,11 +359,13 @@ The reader knows how to troubleshoot plateaus, fatigue, hunger, poor recovery, w
 
 ### Major Sections
 - What to track: body weight trend, waist, strength, energy, hunger, sleep, digestion, and soreness.
+- Add tracking for anti-inflammatory food consistency, joint stiffness, flare patterns, and possible gluten exposure symptoms when relevant.
 - How long to wait before adjusting.
 - Muscle gain plateau rules.
 - Fat loss plateau rules.
 - Recomposition expectations.
 - Recovery warning signs.
+- How to adjust when inflammation, joint stiffness, digestion, or hormonal-stress signals worsen.
 - When to seek professional help.
 - Building a sustainable year-round rhythm.
 
@@ -362,6 +373,7 @@ The reader knows how to troubleshoot plateaus, fatigue, hunger, poor recovery, w
 - Adjust one variable at a time.
 - Do not cut calories if strength, sleep, and recovery are already declining.
 - Do not add supplements before fixing calories, protein, sleep, anti-inflammatory food basics, joint-aware training consistency, and recovery.
+- Change one lever at a time: calorie target, protein feeding, gluten-free swap, anti-inflammatory food habit, training load, sleep, or alcohol.
 - Use deloads and training adjustments with a qualified coach when performance stalls.
 
 ### Tools

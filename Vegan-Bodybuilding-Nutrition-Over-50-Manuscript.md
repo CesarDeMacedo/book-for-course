@@ -290,6 +290,14 @@ The older-adult rule is this: fewer calories cannot mean fewer nutrients.
 
 If you are dieting, do not remove the tofu and keep the crackers. Do not remove the soy milk and keep the oil. Do not remove the beans and keep the sweets. Protect the foods that help you train and age well.
 
+## Calories, Inflammation, and Recovery
+
+Calories also affect the inflammatory and hormonal context. Chronic under-eating can make training feel harder, sleep less stable, and recovery less predictable. Over-eating far beyond the muscle-gain target can increase body fat quickly, which may add stress to joints and metabolic health.
+
+The middle ground is intentional fueling. A modest deficit can support fat loss without turning every workout into a survival test. A small surplus can support muscle gain without pushing waist size up too quickly. Maintenance can be a powerful anti-inflammatory phase when it helps you train consistently, sleep better, eat more colorful plants, and stop cycling between restriction and rebound.
+
+For gluten-free readers, calorie quality still matters. Gluten-free cookies, crackers, and breads are not automatically more anti-inflammatory or more nutrient-dense. Build the base from potatoes, rice, quinoa, amaranth, buckwheat, beans, lentils, fruit, vegetables, soy foods, nuts, seeds, and certified gluten-free oats.
+
 ## Male Track: Calories for Men Over 50
 
 Many men over 50 underestimate how much body composition has changed. The scale may be familiar, but the ratio of muscle to fat may not be the same as it was decades ago. Waist measurement often tells the truth more clearly than body weight.
@@ -345,12 +353,13 @@ Choose your calorie direction for the next four weeks:
 4. Write down your lifting days and energy level.
 5. Track food for three days or write portion-based meal notes.
 6. Decide what you will adjust first: portions of starches, fats, snacks, or liquid calories.
+7. Add one anti-inflammatory food habit: berries, greens, flax, chia, ginger, turmeric, or an omega-3 strategy.
 
 Do not change everything. Choose a direction and collect data.
 
 ## Source Notes
 
-This chapter draws on general energy-balance principles, older-adult nutrition guidance emphasizing nutrient density, and sports nutrition practices for preserving training performance during body-composition phases.
+This chapter draws on general energy-balance principles, older-adult nutrition guidance emphasizing nutrient density, anti-inflammatory dietary pattern principles, and sports nutrition practices for preserving training performance during body-composition phases.
 
 ---
 
@@ -728,6 +737,8 @@ Better pre-workout choices often include:
 
 Save the huge bean chili, raw cruciferous salad, and heavy nut-based sauce for a time farther from training.
 
+If you eat gluten-free, do not assume every gluten-free packaged food will digest better. Some gluten-free breads, bars, and high-fiber wraps use gums, sugar alcohols, or concentrated fibers that can bother the stomach. Before training, simple options often work best: rice, potatoes, banana, certified gluten-free oats, soy milk, tofu, tempeh, or a pea-protein smoothie.
+
 ## Appetite After 50
 
 Some people over 50 have less appetite than they used to. Others have plenty of appetite but less tolerance for large meals. Medication, sleep, stress, digestive issues, and training schedule can all influence hunger.
@@ -750,6 +761,20 @@ The most common mistakes are:
 
 Most digestion problems are solved with pacing, food selection, timing, and portion changes. Persistent digestive symptoms deserve medical evaluation.
 
+## Anti-Inflammatory Digestion Basics
+
+An anti-inflammatory eating pattern should still be digestible. The goal is not to throw every "healthy" plant into one bowl. Large servings of raw greens, beans, cruciferous vegetables, flax, chia, ginger, turmeric, and whole grains can be useful, but adding all of them at once can overwhelm tolerance.
+
+Start with small repeatable boosters:
+
+- Ground flax or chia in oats or a smoothie.
+- Ginger in soup, stir-fry, or tea.
+- Turmeric with black pepper in tofu scramble or lentil soup.
+- Berries with breakfast.
+- Cooked greens instead of a large raw salad before training.
+
+If arthritis or joint stiffness is part of your reason for eating this way, consistency matters more than intensity. A comfortable anti-inflammatory pattern you can repeat beats a heroic bowl that leaves you bloated.
+
 ## This Week's Action
 
 Choose one digestion upgrade:
@@ -759,12 +784,13 @@ Choose one digestion upgrade:
 3. Increase legumes gradually instead of doubling them overnight.
 4. Drink water consistently across the day.
 5. Write down which foods cause symptoms and which meals feel good.
+6. If gluten-free, check oats, sauces, bars, TVP, soy curls, and meat substitutes for certification or gluten-containing ingredients.
 
 Your digestive system is part of the training plan. Treat it like something you can coach.
 
 ## Source Notes
 
-This chapter uses practical sports nutrition and plant-based diet strategies, with emphasis on tolerance, meal timing, and gradual fiber increases.
+This chapter uses practical sports nutrition and plant-based diet strategies, with emphasis on tolerance, meal timing, gluten-free label awareness, anti-inflammatory food pacing, and gradual fiber increases.
 
 ---
 
@@ -1186,6 +1212,12 @@ Think of workout timing in layers:
 
 Do not obsess over layer six while ignoring layers one and two.
 
+## Timing, Myokines, and the Training Signal
+
+Workout timing is not only about avoiding hunger. It helps protect the quality of the training signal. A strong session with appropriate recovery gives muscle a reason to release myokines, adapt to load, improve glucose handling, and support a healthier inflammatory environment.
+
+Under-fueled training can still "count," but if you repeatedly lift with low energy, poor sleep, and inadequate protein, the signal becomes harder to recover from. The goal is not to eat perfectly around every workout. The goal is to arrive fueled enough to train well and recover well.
+
 ## Pre-Workout Nutrition
 
 The purpose of a pre-workout meal is to help you train with energy and comfort.
@@ -1253,6 +1285,7 @@ Good vegan carbohydrate sources include:
 - Lentils and beans.
 - Quinoa.
 - Cereal when useful around workouts.
+- Certified gluten-free oats, rice, potatoes, quinoa, amaranth, buckwheat, corn tortillas, and gluten-free pasta when needed.
 
 Match the source to the timing. Higher-fiber foods are great farther from training. Easier-digesting carbs are better close to training.
 
@@ -1263,6 +1296,8 @@ Hydration affects performance, energy, digestion, and comfort. Older adults may 
 Drink consistently across the day. If you sweat heavily, train in heat, eat mostly unprocessed foods, or feel lightheaded during training, sodium may deserve attention. This does not mean everyone should add salt aggressively. People with high blood pressure, kidney disease, heart disease, or fluid restrictions should follow medical advice.
 
 For many healthy lifters, a meal with fluids and some sodium before training is enough. Longer or hotter sessions may require more planning.
+
+Anti-inflammatory eating does not mean low sodium, low carbohydrate, or low calorie by default. If you train hard, you still need fuel and fluids. Herbs, berries, greens, flax, chia, ginger, and turmeric are helpful additions, but they do not replace workout carbohydrates, protein, or hydration.
 
 ## Caffeine
 
@@ -1331,13 +1366,14 @@ Choose your workout timing template:
 3. Rate workout energy from 1 to 10.
 4. Choose one pre-workout option to test.
 5. Choose one post-workout protein anchor.
-6. Test for two weeks before changing again.
+6. If gluten-free, choose a tested carb source such as rice, potato, banana, certified gluten-free oats, or quinoa.
+7. Test for two weeks before changing again.
 
 Timing is a tool. Use it to make training repeatable.
 
 ## Source Notes
 
-This chapter draws on sports nutrition guidance emphasizing that total daily intake and protein distribution are primary, while nutrient timing can support performance, recovery, and consistency.
+This chapter draws on sports nutrition guidance emphasizing that total daily intake and protein distribution are primary, while nutrient timing can support performance, recovery, exercise-induced myokine signaling, and consistency.
 
 ---
 
@@ -1404,6 +1440,12 @@ Flax, chia, hemp, and walnuts provide ALA omega-3 fats. Algae supplements provid
 
 This can be useful for people who want a direct long-chain omega-3 source. Discuss with a clinician if you take blood thinners or have bleeding concerns.
 
+### Turmeric, Ginger, and Joint Formulas
+
+Turmeric and ginger can be useful culinary anti-inflammatory boosters. Supplements are different from spices used in food. Concentrated extracts may interact with medications, affect bleeding risk, or cause digestive symptoms in some people.
+
+Use food first: turmeric in tofu scramble, ginger in soups or stir-fries, garlic in sauces, berries at breakfast, and flax or chia in oats. If considering high-dose curcumin, ginger capsules, or joint formulas, discuss them with a clinician or pharmacist, especially if you take blood thinners, diabetes medications, blood pressure medications, or have surgery planned.
+
 ## Tier 3: Conditional Nutrients
 
 ### Iron
@@ -1446,6 +1488,8 @@ Review supplements with a clinician or pharmacist if you take medications for bl
 
 Choose reputable brands. Look for third-party testing when possible. Avoid products with hidden stimulant blends.
 
+If you eat gluten-free, supplement labels matter. Protein powders, bars, greens powders, creatine blends, and meal replacements may contain wheat-derived ingredients or be processed with gluten-containing products. Choose certified gluten-free products when gluten avoidance is medically necessary.
+
 ## This Week's Action
 
 Create your supplement inventory:
@@ -1455,13 +1499,15 @@ Create your supplement inventory:
 3. Write why you take it.
 4. Mark essentials: B12, vitamin D if needed, calcium if diet is low, iodine strategy.
 5. Mark optional performance tools: creatine, protein powder.
-6. Bring the list to your clinician or pharmacist if you take medications.
+6. Mark anti-inflammatory extras: algae EPA/DHA, turmeric or ginger products, and any joint formula.
+7. If gluten-free, mark which products are certified gluten-free.
+8. Bring the list to your clinician or pharmacist if you take medications.
 
 The best supplement plan is boring, clear, and useful.
 
 ## Source Notes
 
-This chapter draws on vegan nutrient planning, NIH supplement fact sheets, sports nutrition evidence on creatine and protein supplementation, and safety principles for older adults.
+This chapter draws on vegan nutrient planning, NIH supplement fact sheets, sports nutrition evidence on creatine and protein supplementation, anti-inflammatory supplement safety considerations, gluten-free label awareness, and safety principles for older adults.
 
 ---
 
@@ -1690,6 +1736,9 @@ Useful markers:
 - Soreness and joint comfort.
 - Mood.
 - Protein consistency.
+- Anti-inflammatory food consistency.
+- Joint stiffness or flare patterns.
+- Gluten exposure symptoms if medically relevant.
 
 Do not let one number dominate. Body weight can rise from water, sodium, soreness, fiber, travel, or hormones. Strength can dip from poor sleep. Hunger can rise from stress. Look for patterns.
 
@@ -1708,6 +1757,8 @@ Ask:
 - How was energy and recovery?
 
 If adherence was low, do not change the science. Change the system. Make meals easier, reduce complexity, improve shopping, or create backup options.
+
+If joint stiffness, digestive symptoms, or fatigue are rising, review the whole pattern before blaming one food. Look at training load, sleep, alcohol, hydration, fiber increases, gluten exposure if relevant, and whether the calorie target is too aggressive.
 
 ## Fat-Loss Plateau Rules
 
@@ -1769,6 +1820,9 @@ Nutrition may need adjustment if you notice:
 - Unusual fatigue.
 - Increased joint pain.
 - Frequent illness.
+- Persistent joint stiffness that is worsening.
+- New digestive symptoms after gluten-free packaged foods or rapid fiber increases.
+- Stress symptoms that make training feel like another burden.
 
 These signs do not always mean food is the cause, but food should be reviewed. If symptoms are severe or persistent, seek medical evaluation.
 
@@ -1785,6 +1839,9 @@ Examples:
 - Reduce alcohol.
 - Increase steps.
 - Improve bedtime consistency.
+- Add one anti-inflammatory food habit.
+- Swap a wheat-based meal for a gluten-free version if symptoms or preference require it.
+- Reduce training intensity temporarily if joints or recovery are deteriorating.
 
 If you change five things at once, you will not know what worked.
 
@@ -1815,7 +1872,7 @@ The plan is not supposed to be perfect. It is supposed to be adjustable.
 
 ## Source Notes
 
-This chapter applies sports nutrition and behavior-change principles to long-term adjustment, emphasizing trend-based decisions and preservation of strength, recovery, and nutrient adequacy.
+This chapter applies sports nutrition and behavior-change principles to long-term adjustment, emphasizing trend-based decisions and preservation of strength, recovery, nutrient adequacy, joint function, anti-inflammatory food consistency, and hormone-supportive recovery.
 
 ---
 
