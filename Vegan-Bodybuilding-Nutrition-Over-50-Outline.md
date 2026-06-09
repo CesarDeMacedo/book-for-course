@@ -4,7 +4,7 @@
 A practical plant-based system for building muscle, protecting joints, supporting hormones, and timing meals for strength after 50.
 
 ## Book Promise
-This book helps active beginner men and women over 50 use vegan nutrition to support bodybuilding goals without getting lost in rigid meal plans, supplement hype, or unrealistic aging advice. Readers learn how to set calorie targets, hit protein needs with plant foods, support bones and joints, adapt nutrition for male and female hormone changes, and eat around workouts in a repeatable way.
+This book helps active beginner men and women over 50 use vegan nutrition to support bodybuilding goals without getting lost in rigid meal plans, supplement hype, or unrealistic aging advice. Readers learn how to set calorie targets, hit protein needs with plant foods, choose traditional or gluten-free vegan options, support bones and joints, apply anti-inflammatory nutrition patterns, understand exercise-induced myokines, adapt nutrition for male and female hormone changes, and eat around workouts in a repeatable way.
 
 ## Target Reader
 - Men and women age 50+ who lift weights or are ready to train consistently.
@@ -13,15 +13,17 @@ This book helps active beginner men and women over 50 use vegan nutrition to sup
 - Not looking for a full training program, medical nutrition therapy, or contest-prep bodybuilding.
 
 ## Voice and Positioning
-Use a coach-scientific tone: direct, practical, evidence-aware, and encouraging without overpromising. Explain mechanisms in plain language, then turn them into simple actions. Avoid claims that foods "fix" testosterone, menopause, thyroid function, estrogen, inflammation, or joint pain. Use medical caveats whenever discussing chronic disease, hormone therapy, kidney disease, medications, supplements, or persistent pain.
+Use a coach-scientific tone: direct, practical, evidence-aware, and encouraging without overpromising. Explain mechanisms in plain language, then turn them into simple actions. Avoid claims that foods "fix" testosterone, menopause, andropause, thyroid function, estrogen, inflammation, arthritis, or joint pain. Use medical caveats whenever discussing chronic disease, hormone therapy, kidney disease, medications, supplements, gluten intolerance/celiac disease, or persistent pain.
 
 ## Core Framework
 The book teaches five linked decisions:
 1. Set the right calorie direction: maintain, slight surplus, slight deficit, or recomposition.
 2. Hit enough protein daily and distribute it across meals.
 3. Build meals from high-protein vegan anchors plus nutrient-dense plants.
-4. Support recovery, joints, bones, and hormones through consistent basics.
-5. Time food around training so lifting feels better and recovery is easier.
+4. Offer traditional and gluten-free vegan paths for protein anchors, grains, wraps, and meal templates.
+5. Support recovery, joints, bones, inflammation management, and hormones through consistent basics.
+6. Explain strength training as a muscle, bone, hormone, insulin-sensitivity, and myokine signal, not only a calorie-burning tool.
+7. Time food around training so lifting feels better and recovery is easier.
 
 ## Chapter 1: The Over-50 Vegan Bodybuilding Framework
 
@@ -33,6 +35,8 @@ The reader understands what the book can and cannot do, why nutrition after 50 n
 - The three goals: build muscle, lose fat, or recomposition.
 - What changes with age: muscle protein synthesis, recovery, appetite, joints, bone density, sleep, medications, and digestion.
 - Why vegan bodybuilding requires planning but not perfection.
+- How gluten-free readers can follow the same system without seitan or wheat-based foods.
+- Why structured resistance training can support inflammation, insulin sensitivity, bone density, and hormone context through muscle contraction and myokines.
 - The five-part nutrition system used throughout the book.
 - Medical boundaries: when to consult a physician or registered dietitian.
 
@@ -40,6 +44,7 @@ The reader understands what the book can and cannot do, why nutrition after 50 n
 - Resistance training plus adequate protein is central to preserving and building muscle with age.
 - Older adults often need nutrient-dense eating because calorie needs may fall while micronutrient needs remain important.
 - Vegan diets can support athletic goals when protein, B12, vitamin D, calcium, iodine, iron, zinc, and omega-3 intake are handled deliberately.
+- Exercise-induced myokines and progressive loading are part of the over-50 health strategy, but they do not replace medical care.
 
 ### Tools
 - Goal selector: muscle gain, fat loss, recomposition, performance support.
@@ -97,7 +102,7 @@ The reader understands why protein is the backbone of the plan and can set a dai
 ### Practical Guidance
 - Present protein as a range, not a magic number.
 - Encourage 3-5 protein feedings per day.
-- Teach the "protein anchor" method: every meal starts with tofu, tempeh, soy milk, seitan, legumes, edamame, TVP, or protein powder.
+- Teach the "protein anchor" method: every meal starts with tofu, tempeh, soy milk, seitan, legumes, edamame, TVP, or protein powder, with gluten-free alternatives such as tofu, tempeh, edamame, pea protein, soy protein, lentils, beans, quinoa, amaranth, buckwheat, and gluten-free legume pasta.
 - Explain that vegan protein quality is managed through sufficient total protein, diverse sources, soy/pea emphasis, and optional protein powders.
 
 ### Male Track
@@ -119,7 +124,7 @@ The reader understands why protein is the backbone of the plan and can set a dai
 The reader can build high-protein vegan meals without relying on guesswork or eating unmanageable amounts of beans and grains.
 
 ### Major Sections
-- High-protein vegan staples: tofu, tempeh, edamame, soy milk, TVP, seitan, lentils, beans, chickpeas, pea protein, soy protein, rice protein blends.
+- High-protein vegan staples: tofu, tempeh, edamame, soy milk, TVP, seitan, lentils, beans, chickpeas, pea protein, soy protein, rice protein blends, quinoa, amaranth, buckwheat, and gluten-free legume pastas.
 - Protein density: grams of protein per calorie and per serving.
 - Complete proteins, complementary proteins, and why the daily pattern matters more than combining foods at every meal.
 - Digestibility and tolerance: introducing legumes and fiber gradually.
@@ -129,7 +134,7 @@ The reader can build high-protein vegan meals without relying on guesswork or ea
 ### Practical Guidance
 - Use soy and pea protein as reliable anchors.
 - Use beans and lentils as valuable but not always sufficient standalone protein anchors for bodybuilding goals.
-- Use seitan if tolerated and appropriate, while noting it is not suitable for gluten-free readers.
+- Use seitan if tolerated and appropriate, while giving explicit gluten-free swaps such as tofu, tempeh, edamame, gluten-free TVP, pea protein, soy protein, quinoa, amaranth, lentils, and legume pasta.
 - Combine protein foods with colorful plants, starches, and fats based on calorie direction.
 
 ### Tools
@@ -144,11 +149,11 @@ The reader learns how to increase vegan protein and fiber without bloating, disc
 
 ### Major Sections
 - Why vegan bodybuilding meals can become too bulky.
-- Fiber benefits and fiber tolerance.
+- Fiber benefits, fiber tolerance, and gluten-free grain choices.
 - Gradual increases in beans, lentils, vegetables, and whole grains.
 - Lower-volume high-protein options.
 - Meal frequency and appetite after 50.
-- Hydration, sodium, and digestion.
+- Hydration, sodium, digestion, and label checks for gluten in sauces, oats, TVP, meat substitutes, and protein bars.
 
 ### Practical Guidance
 - Increase fiber gradually over several weeks.
@@ -164,7 +169,7 @@ The reader learns how to increase vegan protein and fiber without bloating, disc
 ## Chapter 6: Joint, Bone, and Connective Tissue Support
 
 ### Reader Outcome
-The reader understands how nutrition supports bones, connective tissue, and inflammation management while recognizing that joint pain needs appropriate medical or physical therapy evaluation.
+The reader understands how nutrition and structured exercise support bones, connective tissue, inflammation management, arthritis-aware movement, and joint function while recognizing that joint pain needs appropriate medical or physical therapy evaluation.
 
 ### Major Sections
 - Joint health versus joint pain: nutrition support is not treatment.
@@ -172,9 +177,12 @@ The reader understands how nutrition supports bones, connective tissue, and infl
 - Protein and connective tissue repair.
 - Calcium and vitamin D for bone health.
 - Omega-3 fats from algae and ALA sources.
+- Anti-inflammatory plant foods: berries, leafy greens, legumes, flax, chia, walnuts, ginger, turmeric, garlic, and colorful vegetables.
+- Exercise as an anti-inflammatory signal: contracting muscle releases myokines and can support healthier inflammatory and metabolic responses.
 - Magnesium, vitamin K, potassium, and colorful plants.
 - Hydration and electrolytes.
 - What collagen claims mean for vegans.
+- Arthritis caveats: movement can improve function and stiffness for many people, but worsening pain, swelling, or instability needs care.
 
 ### Practical Guidance
 - Prioritize calcium-fortified soy milk, calcium-set tofu, leafy greens, beans, almonds, sesame/tahini, and fortified foods.
@@ -202,6 +210,7 @@ Male readers understand how nutrition, body fat, sleep, alcohol, training, and m
 ### Major Sections
 - What testosterone does and what normal aging can change.
 - Lifestyle levers that matter: body composition, resistance training, sleep, protein, healthy fats, alcohol moderation, and stress.
+- Exercise levers that matter: insulin sensitivity, cortisol context, growth hormone/IGF-1 signaling, testosterone context, and myokines.
 - Why extreme dieting can worsen energy, libido, mood, and training.
 - Soy and testosterone myths.
 - When symptoms deserve medical evaluation.
@@ -234,7 +243,7 @@ Female readers understand how menopause and post-menopause changes can affect bo
 
 ### Practical Guidance
 - Do not solve menopause symptoms with one-food claims.
-- Focus on strength training support, protein density, sleep support, alcohol awareness, and nutrient adequacy.
+- Focus on strength training support, protein density, gluten-free options when needed, sleep support, alcohol awareness, insulin sensitivity, anti-inflammatory foods, and nutrient adequacy.
 - Use smaller, higher-protein meals when calorie budgets are tight.
 - Encourage bone density screening and clinician input when appropriate.
 
@@ -252,6 +261,7 @@ The reader can choose pre-workout and post-workout meals that support energy, co
 - Timing matters, but total daily intake matters more.
 - Pre-workout meals for morning, midday, and evening lifters.
 - Carbohydrates as training fuel.
+- Training as an anti-inflammatory, hormone-support, and bone-loading signal.
 - Protein before or after training.
 - Post-workout meals and the myth of the tiny anabolic window.
 - Hydration, sodium, and caffeine.
@@ -321,6 +331,8 @@ The reader sees how calories, protein, plant foods, supplements, and timing beco
 ### Practical Guidance
 - Templates should use ranges and examples, not rigid meal plans.
 - Include male and female example days with different calorie budgets.
+- Include traditional and gluten-free versions of key meal templates.
+- Add anti-inflammatory boosters such as berries, greens, flax, chia, ginger, turmeric, and algae omega-3 where useful.
 - Show how the same foods change by goal: more starch/fat for surplus, leaner anchors and produce volume for deficit.
 - Include a "minimum effective day" for busy readers.
 
@@ -349,7 +361,7 @@ The reader knows how to troubleshoot plateaus, fatigue, hunger, poor recovery, w
 ### Practical Guidance
 - Adjust one variable at a time.
 - Do not cut calories if strength, sleep, and recovery are already declining.
-- Do not add supplements before fixing calories, protein, sleep, and training consistency.
+- Do not add supplements before fixing calories, protein, sleep, anti-inflammatory food basics, joint-aware training consistency, and recovery.
 - Use deloads and training adjustments with a qualified coach when performance stalls.
 
 ### Tools
@@ -387,6 +399,7 @@ Include common serving examples for:
 - Soy milk.
 - TVP.
 - Seitan.
+- Gluten-free alternatives: tofu, tempeh, edamame, pea protein, soy protein, lentils, beans, quinoa, amaranth, buckwheat, and gluten-free legume pasta.
 - Lentils.
 - Beans.
 - Chickpeas.
@@ -425,6 +438,8 @@ Categories:
 - Fortified foods.
 - Supplements to discuss or verify.
 - Convenience foods.
+- Anti-inflammatory boosters.
+- Gluten-free staples and label-check reminders.
 
 ## Appendix G: Source Notes for Drafting
 
@@ -437,12 +452,19 @@ Use these sources as anchors while drafting and update with additional primary o
 - NIH Office of Dietary Supplements vitamin B12 fact sheet: https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/
 - Endocrine Society testosterone therapy guideline resources: https://www.endocrine.org/clinical-practice-guidelines/testosterone-therapy
 - 2022 NAMS hormone therapy position statement summary: https://www.guidelinecentral.com/guideline/1971153
+- Skeletal muscle as an endocrine organ and myokines: https://pmc.ncbi.nlm.nih.gov/articles/PMC5666622/
+- Exercise and older-adult inflammatory markers umbrella review: https://pmc.ncbi.nlm.nih.gov/articles/PMC12398389/
+- NIAMS exercise and bone health guidance: https://www.niams.nih.gov/health-topics/exercise-your-bone-health
+- CDC physical activity and arthritis guidance: https://www.cdc.gov/arthritis/prevention/index.html
+- NCCIH turmeric safety and evidence overview: https://www.nccih.nih.gov/health/turmeric
 
 ## Drafting Guardrails
 - Keep the book nutrition-first; do not write a complete workout program.
+- Treat exercise as a required health-benefit layer, especially for myokines, inflammation, insulin sensitivity, bone density, joint stiffness, and hormone context.
+- Preserve both traditional vegan and gluten-free vegan options whenever meals, protein anchors, recipes, and grocery lists are discussed.
 - Use separate male and female tracks in chapters 2, 3, 6, 9, 11, and the hormone chapters.
 - Avoid medical diagnosis, treatment promises, or supplement cure claims.
-- Define terms before using them: recomposition, maintenance, surplus, deficit, leucine, anabolic resistance, protein anchor.
+- Define terms before using them: recomposition, maintenance, surplus, deficit, leucine, anabolic resistance, protein anchor, myokines, inflammaging, and gluten-free.
 - Give readers practical defaults, then explain how to adjust.
 - End every chapter with a short "This Week's Action" checklist.
 

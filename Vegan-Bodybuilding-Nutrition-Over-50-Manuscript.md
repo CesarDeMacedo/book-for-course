@@ -17,6 +17,10 @@ This is not a medical treatment plan. It is not a full workout program. It will 
 
 What this book will do is give you a practical nutrition system. You will learn how to set calorie targets, build high-protein vegan meals, support bones and joints, think clearly about hormones, choose supplements without hype, and time your food around training. The plan is flexible because real people need flexibility. The principles are structured because muscle does not grow from vague intentions.
 
+This expanded approach also includes two practical layers that many over-50 readers need: gluten-free options and an anti-inflammatory lifestyle lens. Traditional vegan bodybuilding foods such as seitan and wheat wraps can still work well for readers who tolerate gluten. Readers with celiac disease, gluten sensitivity, or personal preference can build the same system with tofu, tempeh, edamame, pea protein, soy protein, lentils, beans, quinoa, amaranth, buckwheat, potatoes, rice, and certified gluten-free oats.
+
+Anti-inflammatory nutrition is not a cure for arthritis, menopause symptoms, andropause symptoms, or chronic disease. But a pattern rich in colorful plants, legumes, omega-3 sources, herbs, spices, and minimally processed foods can support overall health. Structured exercise adds another layer: contracting muscle releases signaling proteins called myokines, which are one reason resistance training behaves like more than calorie burning. Muscle is active tissue, and using it regularly can support healthier inflammation, insulin sensitivity, bones, joints, and aging physiology.
+
 ---
 
 # Chapter 1: The Over-50 Vegan Bodybuilding Framework
@@ -38,6 +42,8 @@ Neither is useful.
 Age matters. Muscle mass tends to decline over time if you do not train and eat to protect it. Recovery can take longer. Sleep can become less predictable. Old injuries may influence exercise choices. Women may experience body composition and bone-density changes around menopause and after menopause. Men may notice changes in energy, libido, strength, or body fat distribution. Many people also deal with medications, digestive changes, joint stiffness, and a smaller margin for nutritional mistakes.
 
 But age does not erase your ability to adapt. Resistance training still gives the body a reason to keep and build muscle. Protein still provides the raw material. Calories still determine whether the body has enough energy to gain tissue or needs to draw from stored energy. Sleep, hydration, nutrient density, and consistency still matter.
+
+Exercise also affects the internal environment. Contracting skeletal muscle releases myokines, including exercise-related IL-6, that can help coordinate metabolic and immune responses. This does not mean every workout is automatically anti-inflammatory or that exercise replaces medication. It means consistent, appropriately dosed training is one of the strongest lifestyle signals available for combating age-related low-grade inflammation.
 
 Your body may require more patience and clearer signals than it used to. That is not bad news. It simply means your nutrition needs to become more intentional.
 
@@ -91,17 +97,23 @@ Training builds the body, but irritated joints can interrupt consistency. Nutrit
 
 Bone health also deserves attention, especially for post-menopausal women and older adults with low vitamin D, low calcium intake, or a history of fractures. A vegan diet can provide bone-supporting nutrition, but only if fortified foods, calcium-rich foods, vitamin D, and overall energy intake are handled deliberately.
 
+Strength training adds the mechanical signal. Bones respond to load, muscles help protect joints, and regular movement can reduce stiffness for many people with arthritis. The safest version is progressive and joint-aware: enough challenge to adapt, not so much that pain is ignored.
+
 ### Hormones Influence the Context
 
 Hormones matter, but they are often discussed irresponsibly. Foods do not work like hormone prescriptions. A vegan diet will not magically raise testosterone, erase menopause symptoms, or "balance hormones" overnight.
 
 What nutrition can do is support the basics that influence the hormonal environment: adequate energy, enough protein, healthy fats, stable blood sugar for many people, body composition, sleep support, alcohol moderation, and micronutrient adequacy. When symptoms are persistent or disruptive, lab work and medical care are more appropriate than guessing with supplements.
 
+Training belongs in that same foundation. Regular resistance exercise may support insulin sensitivity, stress regulation, body composition, and age-related anabolic hormones such as growth hormone and testosterone in some adults. The effect is not a guaranteed hormone "optimization" program. It is a conservative, evidence-informed reason to treat strength training as health care-adjacent behavior rather than only physique work.
+
 ## Why Vegan Bodybuilding Requires Planning
 
 A vegan diet can support muscle, strength, and healthy aging. The issue is not whether plants can work. The issue is whether your actual daily meals are doing the job.
 
 Many vegan meals are rich in fiber, antioxidants, and carbohydrates but light on protein. A bowl of oats with berries is nutritious, but it may not contain enough protein for a lifter. A vegetable stir-fry with rice may be colorful, but without tofu, tempeh, edamame, seitan, TVP, or another protein anchor, it is not a complete bodybuilding meal. Beans and lentils are valuable, but some people cannot comfortably eat enough of them to reach high protein targets without bloating or excessive fullness.
+
+For gluten-free readers, the same point applies with different anchors. Instead of seitan, use tofu, tempeh, edamame, soy curls confirmed gluten-free, pea protein, soy protein, lentils, beans, chickpeas, quinoa, amaranth, or gluten-free legume pasta. Always check labels on meat substitutes, sauces, oats, and packaged protein products because gluten can appear in seasonings, binders, and cross-contaminated grains.
 
 Planning solves this.
 
@@ -127,6 +139,8 @@ You will learn how to set a daily target and divide it across meals so your body
 
 A protein anchor is the main protein source in a meal. Examples include tofu, tempeh, edamame, soy milk, TVP, seitan, lentils, beans, chickpeas, and vegan protein powder. Some anchors are more protein-dense than others. Some are better for lower-calorie days. Some are easier on digestion.
 
+If you eat gluten-free, keep seitan on the list for other readers but choose soy, pea, and legume-based anchors for yourself. The system is the same: protein first, then carbohydrates, produce, fats, and flavor.
+
 Once the protein anchor is in place, you add carbohydrates, vegetables or fruit, fats, and flavor based on the goal.
 
 ### 4. Support Joints, Bones, and Hormones Through Basics
@@ -146,6 +160,8 @@ You will learn simple timing templates for morning, midday, and evening workouts
 Maria chooses recomposition. She does not need a crash diet. She needs consistent lifting, a modest calorie target, and more protein than she currently eats. Her breakfast changes from toast with jam to tofu scramble with vegetables and fruit. Her lunch changes from a large salad with a few beans to a bowl with tempeh, quinoa, greens, and tahini-lemon dressing. She adds fortified soy milk and checks her B12 supplement. Her weight may move slowly, but her waist, strength, and energy become the key feedback.
 
 David chooses slow muscle gain. He is not trying to eat everything in sight. He adds a controlled calorie surplus and makes sure each meal has a protein anchor. His breakfast includes soy milk and protein powder blended with oats and berries. Lunch includes seitan or tofu with rice and vegetables. Dinner includes lentil pasta with marinara and edamame on the side. He tracks his weight trend and waist so he can gain muscle without letting the surplus become careless.
+
+If David needed to avoid gluten, the lunch could use tofu, tempeh, edamame, soy curls, or pea-protein-based strips instead of seitan, and the dinner could use gluten-free lentil pasta or rice. The goal would not change.
 
 Their plans differ, but the framework is the same.
 
@@ -175,6 +191,8 @@ You do not need perfection this week. You need awareness. Awareness turns vague 
 ## Source Notes
 
 Drafting references for this chapter include sports nutrition guidance on protein and nutrient timing, older-adult protein recommendations, vegan athlete nutrition considerations, and official older-adult nutrition guidance. Key source anchors include the International Society of Sports Nutrition position stands on protein and nutrient timing, ESPEN expert recommendations on protein and aging, National Institute on Aging nutrition guidance, NIH Office of Dietary Supplements information on vitamin B12, Endocrine Society testosterone guidance, and menopause hormone therapy guidance from NAMS.
+
+Additional source anchors include research on skeletal muscle as an endocrine organ, exercise-induced myokines, physical activity for arthritis, and exercise for bone health.
 
 ---
 
@@ -385,6 +403,8 @@ Protein is made of amino acids. Essential amino acids are the ones your body can
 
 Animal proteins often contain high levels of essential amino acids in compact servings. Vegan proteins vary more. Soy protein is strong. Pea protein is useful. Seitan is high in protein but not complete by itself. Beans and lentils are nutritious but often come with more carbohydrates and fiber, which can make very high protein targets harder to reach from legumes alone.
 
+Seitan is a traditional high-protein vegan bodybuilding tool, but it is wheat gluten. Gluten-free readers can get the same strategic benefit by leaning harder on tofu, tempeh, edamame, soy milk, pea protein, soy protein, TVP labeled gluten-free, lentils, beans, quinoa, amaranth, buckwheat, and legume pastas.
+
 This does not mean vegan protein is weak. It means vegan lifters should use strategy:
 
 - Eat enough total protein.
@@ -415,8 +435,11 @@ Strong vegan protein anchors include:
 - Vegan protein powder.
 - Lentil or chickpea pasta.
 - Soy curls.
+- Quinoa, amaranth, and buckwheat as gluten-free support foods.
 
 Some foods support protein but are not usually strong anchors by themselves. Nuts, seeds, quinoa, oats, vegetables, and whole grains are valuable, but they rarely provide enough protein per calorie to carry a bodybuilding meal alone.
+
+If you avoid gluten, use certified gluten-free oats and check labels on TVP, soy curls, meat substitutes, sauces, and protein bars. Gluten-free does not automatically mean higher-protein, so the protein-anchor rule still matters.
 
 ## Breakfast: The Missed Opportunity
 
@@ -443,7 +466,7 @@ Men with larger bodies may need larger protein targets, which means the day must
 Practical male strategy:
 
 - Put at least one strong protein anchor in breakfast.
-- Build lunch around tofu, tempeh, seitan, TVP, or legumes.
+- Build lunch around tofu, tempeh, seitan, TVP, or legumes; if gluten-free, use tofu, tempeh, edamame, gluten-free TVP, pea protein, or legume pasta.
 - Use a protein shake if appetite or schedule makes whole-food protein difficult.
 - Track protein for one week to learn your real intake.
 - Keep protein high during fat loss to protect muscle.
@@ -454,7 +477,7 @@ Many women over 50 are working with smaller calorie budgets. This makes protein 
 
 Practical female strategy:
 
-- Use protein-dense anchors like tofu, tempeh, edamame, soy milk, TVP, seitan, and protein powder.
+- Use protein-dense anchors like tofu, tempeh, edamame, soy milk, TVP, seitan, and protein powder; if gluten-free, emphasize soy, pea, lentil, bean, quinoa, amaranth, and certified gluten-free products.
 - Add protein earlier in the day.
 - Choose fortified soy milk over low-protein plant milks when possible.
 - Use smaller, more frequent protein feedings if appetite is low.
@@ -510,6 +533,8 @@ For bodybuilding, this matters because some vegan foods are nutritious but not v
 
 Protein-dense vegan foods include tofu, tempeh, seitan, TVP, edamame, soy curls, high-protein soy milk, protein powders, and some legume pastas. Beans and lentils are extremely useful, but because they include carbohydrates and fiber, they may be easier to use as part of the protein plan rather than the entire plan.
 
+For gluten-free readers, the core list shifts toward tofu, tempeh, edamame, gluten-free TVP, soy curls labeled gluten-free, pea protein, soy protein, lentils, beans, chickpeas, quinoa, amaranth, buckwheat, rice, potatoes, and certified gluten-free oats. Avoid seitan and verify packaged foods.
+
 ## Soy Foods
 
 Soy is one of the most useful foods in vegan bodybuilding.
@@ -536,6 +561,8 @@ It is useful for:
 
 It is not appropriate for people with celiac disease or gluten sensitivity. It is also not a complete protein by itself, so it should be part of a varied diet rather than the only protein source.
 
+Gluten-free swap: use baked tofu, tempeh strips, edamame, soy curls labeled gluten-free, pea-protein-based strips, or a lentil-and-quinoa bowl. The texture may differ, but the meal structure stays the same.
+
 ## Beans, Lentils, and Chickpeas
 
 Beans and lentils are foundational vegan foods. They provide protein, carbohydrates, fiber, minerals, and satisfaction. They are excellent for health and can absolutely support bodybuilding.
@@ -547,7 +574,7 @@ Use legumes wisely:
 - Add lentils to pasta sauce.
 - Use chickpeas in bowls and salads.
 - Make bean chili with TVP added.
-- Combine lentils with tofu or seitan.
+- Combine lentils with tofu or seitan; use tofu, tempeh, edamame, or quinoa for gluten-free combinations.
 - Use lentil pasta for a higher-protein starch.
 - Increase portions gradually to improve tolerance.
 
@@ -592,7 +619,7 @@ Examples:
 
 - Tofu, rice, broccoli, sesame seeds, teriyaki sauce.
 - Tempeh, potatoes, peppers, avocado, salsa.
-- Seitan, whole-grain wrap, greens, tahini sauce, pickled onions.
+- Seitan in a whole-grain wrap with greens, tahini sauce, and pickled onions, or a gluten-free tofu/tempeh rice bowl with the same sauce and vegetables.
 - Lentil pasta, marinara, spinach, olive oil, nutritional yeast.
 - Protein smoothie with soy milk, berries, oats, flax, and cinnamon.
 
@@ -749,6 +776,8 @@ Many people over 50 do not quit because they lack motivation. They quit because 
 
 Think of joint and bone nutrition as background support. It is not dramatic. It is not instant. It matters because you want to keep showing up.
 
+This chapter now has two equal pillars: anti-inflammatory food patterns and anti-inflammatory movement. Food supplies nutrients and compounds that support recovery. Training gives muscle, bone, and joint tissue the signal to stay capable.
+
 ## Joint Health Versus Joint Pain
 
 Joint health and joint pain are related, but they are not the same thing.
@@ -757,6 +786,34 @@ Joint health includes cartilage, tendons, ligaments, muscles, bones, nervous sys
 
 Food choices can support recovery and general inflammation management, but they do not diagnose pain. If a joint is swollen, hot, unstable, suddenly painful, numb, weak, or worsening, do not try to solve it with turmeric and optimism. Get appropriate care.
 
+The same caution applies to arthritis. People with arthritis often benefit from joint-friendly physical activity, but painful flares, rapidly worsening symptoms, or major limitations deserve individualized medical or physical therapy guidance.
+
+## Systemic Inflammation and Aging
+
+Aging is often accompanied by a low-grade inflammatory background sometimes called inflammaging. It is not the same as an acute injury or infection. It is a broad pattern influenced by body composition, sleep, stress, diet quality, activity level, chronic disease, and medications.
+
+No single food switches systemic inflammation off. The useful goal is to build an anti-inflammatory pattern:
+
+- Colorful fruits and vegetables.
+- Beans, lentils, soy foods, and other legumes.
+- Ground flax, chia, hemp, walnuts, and algae EPA/DHA.
+- Herbs and spices such as ginger, turmeric, garlic, cinnamon, and black pepper.
+- Minimally processed carbohydrates such as potatoes, rice, oats, quinoa, amaranth, buckwheat, and whole grains if tolerated.
+- Adequate protein at each meal.
+- Less reliance on alcohol, deep-fried foods, and ultra-processed snacks.
+
+Turmeric, ginger, and omega-3 foods are boosters, not medicine replacements. They belong inside a solid diet rather than being used to compensate for poor sleep, under-eating, or excessive training stress.
+
+## Exercise as Anti-Inflammatory Medicine
+
+Resistance training is not only mechanical. Skeletal muscle acts like an endocrine organ. When muscle contracts, it releases myokines, which are signaling proteins that communicate with other tissues.
+
+Some exercise-induced myokines appear to help regulate immune and metabolic responses. Exercise-related IL-6 is a good example of why context matters: chronically elevated inflammatory markers can be a concern, while transient IL-6 released from working muscle can participate in anti-inflammatory signaling and fuel regulation.
+
+For the reader, the practical point is simple: strength training is not just for appearance. It is a repeated anti-aging signal. It can help preserve muscle, improve insulin sensitivity, support body composition, stimulate bone, reduce stiffness for many people, and contribute to a healthier inflammatory environment.
+
+This is not a promise that lifting cures arthritis or chronic inflammation. It is a reason to treat appropriately scaled resistance training as a core health habit.
+
 ## Body Weight and Joint Load
 
 Body weight affects joint load, especially at the knees, hips, ankles, and spine. For some readers, losing body fat can reduce stress on painful joints and make movement easier. For others, gaining muscle can improve joint support and function.
@@ -764,6 +821,8 @@ Body weight affects joint load, especially at the knees, hips, ankles, and spine
 This is why the goal matters. A person with higher body fat and knee discomfort may benefit from a modest fat-loss phase while preserving muscle. A leaner person with low muscle mass may benefit from maintenance or a small surplus to build strength.
 
 The joint-friendly strategy is not always "weigh less." It is "build the body that moves better."
+
+Movement also helps joints by keeping surrounding muscles strong and encouraging comfortable range of motion. For many people with arthritis, joint-friendly strength training and aerobic activity can improve function and mood. The key is to use loads, exercises, and ranges of motion that do not provoke sharp or escalating joint pain.
 
 ## Protein and Connective Tissue
 
@@ -823,7 +882,9 @@ Color matters:
 - Peppers.
 - Tomatoes.
 - Purple cabbage.
-- Herbs and spices.
+- Herbs and spices, especially ginger and turmeric as optional boosters.
+- Ground flax, chia, hemp, and walnuts for ALA omega-3 fats.
+- Algae EPA/DHA when a direct vegan long-chain omega-3 source is appropriate.
 
 These foods will not erase bad programming, but they help build a recovery-friendly diet.
 
@@ -839,6 +900,7 @@ Nutrition focus:
 - Manage body fat if joint load is an issue.
 - Include calcium and vitamin D planning.
 - Use omega-3-rich foods or algae supplements if appropriate.
+- Add anti-inflammatory boosters such as berries, flax, chia, ginger, turmeric, and colorful vegetables.
 - Moderate alcohol, which can interfere with recovery and food quality.
 
 ## Female Track: Bone Density and Strength
@@ -852,6 +914,7 @@ Nutrition focus:
 - Check vitamin D status when possible.
 - Avoid chronic low-calorie dieting.
 - Include resistance training consistently.
+- Use joint-friendly loading to support bone, muscle, insulin sensitivity, and inflammatory health.
 - Discuss bone-density screening with a clinician when appropriate.
 
 This is not fear-based. It is strength-based. The goal is to build a body that remains capable.
@@ -863,15 +926,17 @@ Complete a joint and bone support audit:
 1. Do you eat a calcium-rich or calcium-fortified food daily?
 2. Do you know your vitamin D status?
 3. Do you have a direct omega-3 strategy?
-4. Are you hitting protein consistently?
-5. Is any joint pain changing how you train?
-6. Do you need medical or physical therapy input?
+4. Are you using anti-inflammatory plant boosters such as berries, greens, flax, chia, ginger, or turmeric?
+5. Are you hitting protein consistently?
+6. Are you strength training in a way your joints tolerate?
+7. Is any joint pain changing how you train?
+8. Do you need medical or physical therapy input?
 
 Support the joints and bones that make training possible.
 
 ## Source Notes
 
-This chapter draws on older-adult nutrition guidance, bone-health recommendations, vegan nutrient planning, and cautious interpretation of joint supplement claims.
+This chapter draws on older-adult nutrition guidance, bone-health recommendations, vegan nutrient planning, exercise and arthritis guidance, myokine research, and cautious interpretation of joint supplement claims.
 
 ---
 
@@ -882,6 +947,8 @@ Testosterone gets more attention than almost any other hormone in men's fitness.
 Men over 50 may experience changes in strength, energy, libido, mood, sleep, muscle mass, and body fat distribution. Testosterone can be part of that picture, but it is not the only variable. Poor sleep, high stress, excess alcohol, low activity, under-eating, over-dieting, medication effects, depression, chronic disease, and low fitness can create similar symptoms.
 
 Nutrition can support a healthy hormonal environment. It cannot diagnose low testosterone, and it cannot replace medical care.
+
+Structured exercise belongs in the same conversation. Strength training can improve body composition, insulin sensitivity, sleep pressure, confidence, and physical function. Research on exercise and hormones in older adults is mixed in details, but regular training may support healthier patterns in testosterone, growth hormone, IGF-1, cortisol regulation, and metabolic health. The benefit is not a guaranteed lab-number transformation. It is a practical way to reduce the lifestyle pressures that often worsen andropause-like symptoms.
 
 ## What Testosterone Does
 
@@ -915,6 +982,16 @@ Excess body fat, especially around the waist, is often linked with poorer metabo
 
 The goal is not to become extremely lean. The goal is to move toward a healthier, stronger body composition.
 
+### Insulin Sensitivity and Cortisol Context
+
+Resistance training helps active muscle use glucose more effectively. Better insulin sensitivity supports energy regulation and body composition, which indirectly supports the hormonal environment.
+
+Cortisol is not a villain; it is a necessary stress hormone. The problem is chronic stress stacked on poor sleep, aggressive dieting, alcohol, and excessive training. A sustainable lifting plan, enough calories, and recovery habits help keep training as a positive stress rather than one more burden.
+
+### Growth Hormone and Training Stimulus
+
+Hard resistance training can acutely stimulate growth hormone and other anabolic signals. Do not confuse this with a promise that workouts reverse aging hormones. The useful message is more practical: muscles and bones need regular loading signals, and nutrition helps the body respond to those signals.
+
 ### Sleep and Alcohol
 
 Sleep is a hormone-support habit. Poor sleep can affect hunger, recovery, mood, and training drive. Alcohol can interfere with sleep quality, food choices, body composition, and recovery.
@@ -941,6 +1018,8 @@ Before considering any hormone-related supplement, ask:
 - Am I eating enough protein?
 - Is my calorie deficit too aggressive?
 - Am I training consistently?
+- Is my training progressive but recoverable?
+- Am I managing stress well enough to recover?
 - Have I had appropriate lab work?
 
 Most men will get more benefit from fixing the basics than from chasing boosters.
@@ -957,17 +1036,19 @@ Complete the male hormone-support checklist:
 
 1. Are you sleeping seven or more hours most nights?
 2. Are you lifting consistently?
-3. Are you eating enough protein daily?
-4. Is your calorie deficit moderate, not extreme?
-5. Is your waist measurement moving in the right direction?
-6. Is alcohol helping or hurting your goal?
-7. Do symptoms suggest you should ask for medical evaluation?
+3. Is your lifting progressive but not constantly exhausting?
+4. Are you eating enough protein daily?
+5. Is your calorie deficit moderate, not extreme?
+6. Is your waist measurement moving in the right direction?
+7. Is alcohol helping or hurting your goal?
+8. Are stress and recovery affecting symptoms?
+9. Do symptoms suggest you should ask for medical evaluation?
 
 Start with what you can control, and test what you cannot confirm.
 
 ## Source Notes
 
-This chapter is grounded in cautious sports nutrition practice and official endocrine guidance that treats testosterone therapy as a medical decision requiring proper diagnosis and monitoring.
+This chapter is grounded in cautious sports nutrition practice, exercise-hormone research in older adults, insulin-sensitivity principles, and official endocrine guidance that treats testosterone therapy as a medical decision requiring proper diagnosis and monitoring.
 
 ---
 
@@ -979,6 +1060,8 @@ Neither message is good enough.
 
 Menopause and post-menopause can affect body composition, sleep, hot flashes, mood, training recovery, and bone density. These changes are real. But nutrition, resistance training, sleep habits, medical care, and consistency still matter. The goal is not to fight the body. The goal is to support it with better signals.
 
+Strength training is one of those signals. It cannot stop menopause or replace medical care, but it can help protect muscle, stimulate bone, improve insulin sensitivity, support balance, and create a healthier inflammatory environment through muscle contraction and myokine release.
+
 ## Menopause in Plain Language
 
 Menopause is defined after 12 consecutive months without a menstrual period, not caused by another medical reason. Perimenopause is the transition leading up to it, when hormones fluctuate and symptoms may begin. Post-menopause is the time after menopause.
@@ -986,6 +1069,8 @@ Menopause is defined after 12 consecutive months without a menstrual period, not
 Estrogen changes can influence body fat distribution, bone density, sleep, and other systems. Some women experience intense symptoms. Others experience mild changes. There is no single menopause story.
 
 Nutrition should be individualized, but the foundations are consistent: protein, strength training support, nutrient density, bone health, recovery, and medical guidance when symptoms are disruptive.
+
+For many women, the most overlooked foundation is progressive loading. Muscle contraction is not only a calorie-burning event. It sends chemical and mechanical signals that can support metabolic health, bone remodeling, joint function, and resilience during the menopause transition and after menopause.
 
 ## Muscle After Menopause
 
@@ -1002,11 +1087,15 @@ The nutrition priorities are:
 
 Many women are not failing because they lack discipline. They are under-fueled, under-proteined, and over-restricted.
 
+Exercise also helps manage the hormonal context indirectly. Strength training can improve insulin sensitivity, help regulate stress responses when recovery is adequate, and support growth hormone and other anabolic signaling. It does not "balance estrogen" in a simplistic way, but it can reduce muscle loss pressure and support the tissues most affected by aging and menopause.
+
 ## Bone Density
 
 Bone health is central for women over 50. Estrogen decline can accelerate bone loss. Low protein, low calcium, low vitamin D, low energy intake, smoking, heavy alcohol use, low body weight, and lack of resistance training can add risk.
 
 A vegan plan should include daily calcium-rich or calcium-fortified foods. Fortified soy milk and calcium-set tofu can be especially useful because they also help with protein.
+
+The food side and training side should work together. Calcium, vitamin D, protein, and adequate calories provide building materials. Resistance training and impact activities where appropriate provide the loading signal. If osteoporosis, osteopenia, pain, or balance issues are present, exercise selection should be guided by a qualified professional.
 
 Discuss bone-density screening with a clinician, especially if you have risk factors or a family history of osteoporosis.
 
@@ -1048,6 +1137,7 @@ Examples:
 - Use fortified soy milk instead of low-protein plant milk.
 - Add protein powder to oats or smoothies.
 - Choose tofu, tempeh, edamame, TVP, or seitan as meal anchors.
+- If gluten-free, choose tofu, tempeh, edamame, gluten-free TVP, pea protein, soy protein, lentils, quinoa, amaranth, buckwheat, or legume pasta instead of seitan.
 - Use measured fats rather than accidental heavy pours.
 - Keep vegetables high, but do not let vegetables replace protein.
 
@@ -1059,17 +1149,19 @@ Complete the female hormone-support checklist:
 
 1. Are you eating protein at breakfast?
 2. Are you lifting consistently?
-3. Are you getting calcium-rich foods daily?
-4. Do you know your vitamin D status?
-5. Are sleep disruptions affecting hunger or training?
-6. Is alcohol worsening sleep, hot flashes, or recovery?
-7. Do symptoms deserve a clinician conversation?
+3. Is your lifting progressive, joint-aware, and recoverable?
+4. Are you getting calcium-rich foods daily?
+5. Do you know your vitamin D status?
+6. Are sleep disruptions affecting hunger or training?
+7. Is alcohol worsening sleep, hot flashes, or recovery?
+8. Are you using anti-inflammatory plant foods such as berries, greens, flax, chia, ginger, or turmeric?
+9. Do symptoms deserve a clinician conversation?
 
 Your body is not betraying you. It is giving you new conditions to work with.
 
 ## Source Notes
 
-This chapter draws on menopause guidance, bone-health priorities, sports nutrition principles, and vegan nutrition planning. It treats hormone therapy and significant symptoms as medical topics requiring individualized care.
+This chapter draws on menopause guidance, bone-health priorities, sports nutrition principles, exercise-hormone research, myokine research, and vegan nutrition planning. It treats hormone therapy and significant symptoms as medical topics requiring individualized care.
 
 ---
 
@@ -1379,6 +1471,8 @@ Information only helps when it turns into meals.
 
 By now, you know the pieces: calories, protein, protein anchors, digestion, joints, hormones, timing, and supplements. The next step is to combine them into ordinary days that fit real life.
 
+For every template, there are two tracks: traditional vegan and gluten-free vegan. Traditional options can include seitan, wheat wraps, and whole-grain wheat pasta. Gluten-free versions use tofu, tempeh, edamame, pea protein, soy protein, lentils, beans, quinoa, amaranth, buckwheat, rice, potatoes, certified gluten-free oats, and legume pasta.
+
 You do not need a rigid meal plan. You need templates you can repeat and adjust.
 
 ## The Base Plate
@@ -1413,6 +1507,8 @@ Pre-workout: banana and soy yogurt.
 
 Dinner: lentil pasta with marinara, spinach, and seitan or TVP added.
 
+Gluten-free swap: use gluten-free lentil pasta with tofu, tempeh, gluten-free TVP, or edamame.
+
 Evening option: fortified soy milk or smoothie if protein target is not met.
 
 Adjustment: if weight is not rising after several weeks, add more oats, rice, potatoes, pasta, fruit, or a measured fat serving.
@@ -1444,6 +1540,8 @@ Example:
 Breakfast: protein smoothie with soy milk, pea protein, berries, oats, and flax.
 
 Lunch: seitan wrap with vegetables and fruit.
+
+Gluten-free swap: use a tofu, tempeh, or edamame rice bowl with the same vegetables and sauce.
 
 Pre-workout: banana or cereal with soy milk.
 
@@ -1497,8 +1595,11 @@ Look for:
 - Lentils.
 - Hummus plus another protein.
 - Protein-rich bowls.
+- Gluten-free bases such as rice, potatoes, quinoa, corn tortillas, or certified gluten-free noodles when needed.
 
 Ask for sauces on the side if fat loss is the goal. Add a protein shake before or after if the restaurant meal is low-protein.
+
+If you must avoid gluten, ask about soy sauce, seitan, breaded tofu, wheat noodles, wraps, and shared fryers. Choose tamari, rice bowls, tofu, beans, edamame, and plain potatoes or rice when available.
 
 ## Travel
 
@@ -1511,6 +1612,7 @@ Useful options:
 - Shelf-stable soy milk.
 - Protein bars that digest well.
 - Instant oats.
+- Certified gluten-free oats if needed.
 - Nuts and fruit.
 - Ready-to-eat lentil or bean packs.
 
@@ -1750,6 +1852,7 @@ Adjustment rule:
 
 - If weight and waist are not moving toward the goal after two to four weeks, adjust slightly.
 - If recovery, sleep, and training decline, review whether the calorie target is too aggressive.
+- If joint pain, inflammatory symptoms, or poor sleep worsen, review training load, alcohol, ultra-processed foods, and recovery before cutting calories further.
 
 ---
 
@@ -1796,6 +1899,9 @@ Use this as a planning guide. Exact protein content varies by brand and serving 
 - Lentils: excellent for soups, bowls, pasta sauce, and chili.
 - Beans: useful for fiber, minerals, protein, and satiety.
 - Chickpeas: useful in bowls, salads, and hummus, but often need another protein for high targets.
+- Quinoa: gluten-free support food with more protein than many grains, best paired with a protein anchor.
+- Amaranth: gluten-free support food that can add variety to bowls and porridge.
+- Buckwheat: gluten-free despite the name, useful as groats or noodles if certified gluten-free.
 - Pea protein powder: convenient for shakes, oats, and smoothies.
 - Soy protein powder: convenient and high quality.
 - Lentil or chickpea pasta: useful higher-protein carbohydrate source.
@@ -1906,16 +2012,22 @@ Protein anchors:
 - Lentil pasta.
 - Fortified soy milk.
 - Vegan protein powder.
+- Pea protein and soy protein.
+- Quinoa, amaranth, and buckwheat for gluten-free support.
 
 Carbohydrate bases:
 
 - Oats.
+- Certified gluten-free oats if needed.
 - Rice.
 - Potatoes.
 - Sweet potatoes.
 - Pasta.
 - Whole-grain bread.
 - Quinoa.
+- Amaranth.
+- Buckwheat.
+- Gluten-free pasta or corn tortillas if needed.
 - Fruit.
 - Cereal for quick training fuel.
 
@@ -1945,6 +2057,9 @@ Fats and flavor:
 - Soy sauce or tamari.
 - Vinegar.
 - Herbs and spices.
+- Ginger.
+- Turmeric.
+- Black pepper.
 - Nutritional yeast.
 
 Fortified foods:
@@ -2073,11 +2188,11 @@ Breakfast B: soy milk smoothie with protein powder, berries, oats, and flax.
 
 Lunch A: tempeh grain bowl with greens and tahini-lemon sauce.
 
-Lunch B: seitan wrap with vegetables and fruit.
+Lunch B: seitan wrap with vegetables and fruit, or tofu/tempeh over rice or quinoa for a gluten-free version.
 
 Dinner A: TVP chili with beans and vegetables.
 
-Dinner B: lentil pasta with marinara, spinach, and tofu or seitan.
+Dinner B: lentil pasta with marinara, spinach, and tofu or seitan. Use gluten-free lentil pasta and tofu, tempeh, or gluten-free TVP if needed.
 
 Week 2 success means you are no longer improvising every meal.
 
@@ -2092,13 +2207,15 @@ Tasks:
 3. Review vitamin D status or plan testing.
 4. Add an omega-3 strategy: flax/chia/walnuts plus algae EPA/DHA if appropriate.
 5. Review iodine intake.
-6. Create a supplement list for your clinician or pharmacist if you take medications.
+6. Add two anti-inflammatory plant boosters, such as berries, greens, ginger, turmeric, flax, or chia.
+7. Create a supplement list for your clinician or pharmacist if you take medications.
 
 Simple nutrient-support day:
 
 - Fortified soy milk at breakfast.
 - Calcium-set tofu at lunch.
 - Ground flax in oats or smoothie.
+- Ginger or turmeric in a tofu scramble, soup, or smoothie if tolerated.
 - Beans or lentils at one meal.
 - Iodized salt used appropriately or another iodine strategy.
 - B12 supplement or consistent fortified foods.
@@ -2161,6 +2278,7 @@ Add:
 - Peppers, onions, spinach, mushrooms, or tomatoes.
 - Turmeric, garlic powder, black pepper, nutritional yeast, and salt.
 - Potatoes, toast, or fruit depending on training and calorie needs.
+- Use gluten-free toast, potatoes, rice, or certified gluten-free oats if needed.
 
 Muscle-gain version: add potatoes, avocado, or extra toast.
 
@@ -2180,6 +2298,8 @@ Add:
 Method:
 
 Cook oats with fortified soy milk. Stir in protein powder after cooking, adding water or soy milk as needed for texture.
+
+Use certified gluten-free oats if you avoid gluten.
 
 Training use: good breakfast before midday training or after morning lifting.
 
@@ -2225,7 +2345,9 @@ Muscle-gain version: add olive oil, extra pasta, or bread.
 
 Fat-loss version: use a measured pasta serving and add more vegetables.
 
-## 6. Seitan Wrap
+Gluten-free version: choose certified gluten-free lentil or chickpea pasta and use tofu, tempeh, edamame, or gluten-free TVP instead of seitan.
+
+## 6. Seitan Wrap or Gluten-Free Power Bowl
 
 Protein anchor: seitan.
 
@@ -2244,6 +2366,8 @@ Side options:
 - Vegetable soup.
 
 Note: not for gluten-free readers.
+
+Gluten-free version: replace seitan and the wheat wrap with tofu, tempeh, edamame, or pea-protein strips over rice, quinoa, potatoes, or corn tortillas. Use tamari instead of soy sauce if needed.
 
 ## 7. Smoothie for Low Appetite
 
@@ -2269,6 +2393,7 @@ Add:
 - Cucumber, carrots, cabbage, or greens.
 - Soy sauce or tamari.
 - Ginger, garlic, sesame, or sriracha.
+- Add turmeric-black pepper dressing or ginger-tamari sauce as an optional anti-inflammatory flavor boost.
 
 Training use: good post-workout meal because it combines protein, carbohydrates, and sodium.
 
@@ -2281,6 +2406,7 @@ Add:
 - Vegetable broth.
 - Carrots, celery, tomatoes, greens.
 - Potatoes, barley, or pasta if more carbohydrates are needed.
+- Use rice, quinoa, amaranth, potatoes, or gluten-free pasta if needed.
 
 Tip: soups are useful during fat loss because they can be filling and nutrient-dense.
 
@@ -2329,6 +2455,7 @@ First fixes:
 - Add fortified soy milk.
 - Use protein powder once per day.
 - Add tofu, tempeh, TVP, seitan, or edamame.
+- If gluten-free, choose tofu, tempeh, edamame, pea protein, soy protein, gluten-free TVP, lentils, or legume pasta.
 - Upgrade breakfast.
 - Use a protein snack.
 
@@ -2346,6 +2473,7 @@ First fixes:
 
 - Reduce pre-workout fiber.
 - Use tofu, tempeh, seitan, TVP, or protein powder temporarily.
+- If gluten-free, use tofu, tempeh, edamame, pea protein, soy protein, or gluten-free TVP instead of seitan.
 - Cook vegetables.
 - Increase legumes gradually.
 - Track trigger foods.
@@ -2401,7 +2529,27 @@ First fixes:
 - Review technique and programming.
 - Keep protein consistent.
 - Support calcium, vitamin D, and omega-3 strategy.
+- Add anti-inflammatory food pattern basics: colorful plants, flax, chia, walnuts, ginger, turmeric, and fewer ultra-processed foods.
+- Keep movement joint-friendly; exercise can reduce stiffness for many people, but escalating pain needs professional input.
 - Seek physical therapy or medical input when needed.
+
+## Problem: I Want Anti-Inflammatory Benefits But Do Not Know Where to Start
+
+Likely causes:
+
+- Looking for a single magic food.
+- Skipping strength training.
+- Eating too few colorful plants.
+- Forgetting omega-3 sources.
+- Using alcohol, poor sleep, or under-recovery against the plan.
+
+First fixes:
+
+- Add berries or citrus daily.
+- Add ground flax or chia daily.
+- Use ginger or turmeric several times per week if tolerated.
+- Strength train consistently with appropriate loads.
+- Keep protein and calories adequate for recovery.
 
 ## Problem: I Keep Starting Over
 
@@ -2447,7 +2595,27 @@ Improving muscle and fat levels over the same period, often with slow scale chan
 
 ## Protein Anchor
 
-The main protein source in a meal. Examples include tofu, tempeh, edamame, TVP, seitan, beans, lentils, soy milk, and protein powder.
+The main protein source in a meal. Examples include tofu, tempeh, edamame, TVP, seitan, beans, lentils, soy milk, and protein powder. Gluten-free readers should avoid seitan and verify labels on TVP, soy curls, sauces, and packaged proteins.
+
+## Gluten-Free Vegan Bodybuilding
+
+A version of vegan bodybuilding that avoids wheat, barley, rye, seitan, and non-certified oats while still using protein anchors such as tofu, tempeh, edamame, pea protein, soy protein, lentils, beans, quinoa, amaranth, buckwheat, and gluten-free legume pasta.
+
+## Anti-Inflammatory Food Pattern
+
+An overall eating pattern rich in colorful plants, legumes, omega-3 sources, herbs, spices, and minimally processed foods. It supports health but does not diagnose, treat, or cure arthritis or inflammatory disease.
+
+## Myokines
+
+Signaling proteins released by contracting muscle. They help explain why exercise affects metabolism, immune signaling, inflammation, and other body systems beyond calorie burning.
+
+## Inflammaging
+
+A term used for age-associated low-grade inflammation. Lifestyle habits such as strength training, sleep, body composition, nutrient-dense eating, and stress management may help support a healthier inflammatory environment.
+
+## Andropause
+
+An informal term often used for age-related changes in male hormones and symptoms such as lower energy, libido, or strength. Persistent symptoms need medical evaluation rather than supplement guessing.
 
 ## Protein Distribution
 
@@ -2497,22 +2665,29 @@ Sports nutrition:
 - International Society of Sports Nutrition position stand on nutrient timing.
 - International Society of Sports Nutrition review on vegan diets for athletes and exercisers.
 - International Society of Sports Nutrition position stand on creatine safety and efficacy.
+- Reviews on skeletal muscle as an endocrine organ and exercise-induced myokines.
+- Systematic reviews on resistance training, inflammatory markers, and older adults.
 
 Older-adult nutrition:
 
 - ESPEN expert recommendations on protein intake and exercise for optimal muscle function with aging.
 - National Institute on Aging healthy eating and nutrient guidance for older adults.
 - FDA Nutrition Facts label guidance for older adults.
+- CDC physical activity and arthritis guidance.
+- NIAMS exercise and bone health guidance.
 
 Vegan nutrient planning:
 
 - Academy of Nutrition and Dietetics vegetarian and vegan diet resources.
 - NIH Office of Dietary Supplements fact sheets for vitamin B12, vitamin D, calcium, iodine, iron, zinc, magnesium, and omega-3 fats.
+- NCCIH guidance on turmeric, ginger, and nutritional approaches for musculoskeletal pain and inflammation.
+- Anti-inflammatory diet resources from major academic medical centers, interpreted cautiously.
 
 Hormone and medical boundaries:
 
 - Endocrine Society testosterone therapy guideline resources.
 - NAMS menopause hormone therapy position statement.
+- Reviews on exercise training effects on anabolic and catabolic hormones with aging.
 
 Editorial note: before publication, convert these source anchors into the citation style required by the publisher or platform, and have medical and nutrition claims reviewed by a qualified professional.
 
